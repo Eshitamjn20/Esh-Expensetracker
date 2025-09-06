@@ -1,0 +1,44 @@
+[
+    {
+        "id": "e_68bc6360436a70.76386303",
+        "date": "2025-09-07",
+        "description": "Lunch",
+        "category": "Food",
+        "amount": 23.5
+    },
+    {
+        "id": "e_68bc6370236b91.02638326",
+        "date": "2025-09-08",
+        "description": "Myki",
+        "category": "Transport",
+        "amount": 10
+    },
+    {
+        "id": "e_68bc637db8db18.89601323",
+        "date": "2025-09-10",
+        "description": "Movie",
+        "category": "Entertainment",
+        "amount": 12
+    },
+    {
+        "id": "e_68bc6412a6cb47.19565792",
+        "date": "2025-08-07",
+        "description": "Stationery",
+        "category": "Study",
+        "amount": 45.6
+    },
+    {
+        "id": "e_68bc6430ddcd45.64887931",
+        "date": "2025-08-07",
+        "description": "Winter shop",
+        "category": "Shopping",
+        "amount": 156
+    },
+    {
+        "id": "e_68bc644cf17933.41404779",
+        "date": "2025-07-07",
+        "description": "Grocery",
+        "category": "Food",
+        "amount": 67
+    }
+]
